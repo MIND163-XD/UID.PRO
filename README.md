@@ -18,7 +18,7 @@
  
  rm -rf UID.PRO
 
- git clone https://github.com/SABBIR404-CYBER/UID.PRO
+ git clone https://github.com/MIND163-XD/UID.PRO
 
  cd UID.PRO
 
